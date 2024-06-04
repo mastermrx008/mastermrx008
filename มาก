@@ -1,0 +1,7 @@
+echo "# mastermrx008" >> README.md 
+git init 
+git add README.md 
+git commit -m "การคอมมิตครั้งแรก" 
+สาขา git -M main 
+git remote เพิ่มต้นกำเนิดhttps://github.com/mastermrx008/mastermrx008.git
+ git push - คุณกำเนิดหลัก
